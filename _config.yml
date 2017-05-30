@@ -305,7 +305,7 @@ han: false
 # Disqus
 disqus:
   enable: true
-  shortname: bruce30262-github-io
+  shortname: bruce30262logdown
   count: true
 
 # Hypercomments
